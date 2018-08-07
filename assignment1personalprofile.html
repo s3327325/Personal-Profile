@@ -1,27 +1,113 @@
 <!DOCTYPE html>
 <html>
+<title> Personal Profile </title>
 <head>
+
+<meta name="testing" content="width=device-width, initial-scale=1">
+
 <style>
 body {
-<!-- background-image: url("insert website"); -->
-background-color: #93B874;
+background-color: #9999ff;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+
 </style>
 
 <title>Assignment 1 - Personal Profile (Intro To IT)</title>
 
 </head>
-<body>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+<script>
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
+
+<body bgcolor="#9999ff" >
+
+<div id="home">
+</div>
+
+<div class="topnav">
+  <a class="active" href="#home"></a>
+  <a href="#aboutme">About Myself</a>
+  <a href="#interestinIT">Interest In IT</a>
+  <a href="#idealjob">My Ideal Job</a>
+  <a href="#personality">Personality</a>
+  <a href="#project">Project Idea</a>
+  <a href="#reference">References</a>
+</div>
 
 <h1 align="center">
-Personal Information
+About Me
 </h1>
 
-<img src="https://stickershop.line-scdn.net/stickershop/v1/product/925/LINEStorePC/main@2x.png;compress=true"></br>
-<p>
-REMEMBER TO ADD PICTURE!!
-</p>
+<style>
 
-<p align="left"><b>
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body
+{
+font-family:Sans-serif
+}
+
+</style>
+
+<!--
+<img src="https://stickershop.line-scdn.net/stickershop/v1/product/925/LINEStorePC/main@2x.png;compress=true" alt="stitch saying hi" style="width:30%;"> 
+--> 
+
+
+<img src="https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.0-9/1936980_153025593913_1263758_n.jpg?_nc_cat=0&oh=2eda57aca84ad584ef51282a5fba5070&oe=5C08773D" alt="Its me!" style="width:40%;">
+
+
+</br>
+
+<div id="aboutme">
+</div>
+
+<p align="center"><b>
 Hello and welcome to my profile.
 </b></p>
 
@@ -40,6 +126,13 @@ A little bit about myself, admittedly I am more of a dog person than a cat, and 
 </p>
 
 </br>
+
+<div>
+  <a href="#home">Go Back Up</a>
+</div>
+
+<div id="interestinIT">
+</div>
 
 <h2 align="center">Interest in IT</h2>
 
@@ -68,6 +161,13 @@ Since I am somewhat new to the world of IT, entering Bachelor of Information Tec
 </p>
 
 </br>
+
+<div>
+  <a href="#home">Go Back Up</a>
+</div>
+
+<div id="idealjob">
+</div>
 
 <h3 align="center">
 Ideal Job
@@ -169,6 +269,13 @@ I understand that the goal to reach the position of a Java Developer would take 
 </p>
 
 </br>
+
+<div>
+  <a href="#home">Go Back Up</a>
+</div>
+
+<div id="personality">
+</div>
 
 <h4 align="center">Personal Profile</h4>
 
@@ -280,7 +387,7 @@ Big Five Personality Test
 What do the results of these tests mean for you?
 </b></p>
 
-<a href="URL"><img src="https://www.truity.com/sites/default/files/styles/width_560/public/test_images/truity_facets_banner_updated_squared.png?itok=5be4s5Xy" style="float: right; width: 50%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
+<a href="URL"><img src="https://www.truity.com/sites/default/files/styles/width_560/public/test_images/truity_facets_banner_updated_squared.png?itok=5be4s5Xy" style="float: right; width: 35%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
 
 <p align="justify">
 The big five personality test measures in 5 different categories; Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism, or O.C.E.A.N in short. Openness, in general, relates to someone who uses imagination more than logical means and is often more daring to explore the unknown disregarding risks.  Conscientiousness describes an individual who has a strong sense of discipline towards any task and is willing to sacrifice short-term pleasures in exchange for a more satisfying long-term outcome. People who have a high sense of extraversion are known to seek joy from their surroundings, whether it be attention from their friends or family or the thrill of an activity such as skydiving. A person with a high level of agreeableness is known to put other people in front of their own, the individual prefers cooperation instead of competition and has a great sense of empathy. Neuroticism relates to the basic negative emotions that the general population experiences such as; sadness, fear, guilt, shame, and to some level of depression.
@@ -308,20 +415,62 @@ I believe that conflict is to be expected when working within a team, it all mat
 
 </br>
 
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+
+<div>
+  <a href="#home">Go Back Up</a>
+</div>
+
+<div id="project">
+</div>
+
 <h5 align="center">Project Idea</h5>
 
-<a href="URL"><img src="https://cdn.shopify.com/s/files/1/0104/2612/products/MegamanUltra-1_grande.jpg?v=1446695772" style="float: center; width: 20%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
-<a href="URL"><img src="https://nerdist.com/wp-content/uploads/2016/12/Castlevania-Featured-12302016.jpg" style="float: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
+<div class="row">
+
+  <div class="column">
+    <img src="https://cdn.shopify.com/s/files/1/0104/2612/products/MegamanUltra-1_grande.jpg?v=1446695772" alt="megaman" style="width:80%">
+  </div>
+  <div class="column">
+    <img src="https://nerdist.com/wp-content/uploads/2016/12/Castlevania-Featured-12302016.jpg" alt="castlevania" style="width:80%">
+  </div>
+
+  <div class="column">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4W8PekOMe_vqvDeera-jQ58hccmJWEJyp-oEQFV4YdqnO5__k9Q" alt="castlevania" style="width:80%">
+  </div>
+  
+
+</div>
+
 
 <p align="center"><i>
 Virtual Gaming
 </i></p>
+
 
 <a href="URL"><img src="https://futurism.com/wp-content/uploads/2016/01/CWosjfrU4AAjJJ2.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
 
 <p align="justify">
 The project in which I would like to develop is a game that is set in stages. Each game released would implement new motivational ideas that tie with Virtual Reality (VR). For example, the first release would be no different to other games on platforms such as the PS4, XBOX, or PC. However, the next release would implement VR, primarily the headset, and ultimately an entire bodysuit. There are two main reasons why I chose to pursue such a project, primarily due to the fact that the game I would like to develop originates from my childhood joys. The game shares similar qualities towards two of my favorite titles; Megaman and Castlevania. The second reason is my interest in Virtual Reality. Personally, I found the idea of the Oculus Rift amazing and it caught my interest. The ultimate goal of this project is to blend both virtual and reality so well that the player would feel as if they are truly the main character. There are already different methods you could improve on the simple VR headset, two involves buying either a machine similar to a treadmill, KAT Walk VR or Omni Directional Treadmill or a bodysuit, Tesla ($1,499).
 </p>
+
+
 
 <p align="justify">
 One of the main traits that is shared between both titles; Megaman and Castlevania, is that they are categorized as side-scrolling games. This means that the characters move within two dimensions, only the Y-axis (Vertical) and X-axis (Horizontal). I would like to improve on it and create a three-dimensional world. The usual view of a side-scrolling game would be of the ‘side’ which includes; a good portion of the area, the protagonist, and whatever is around. The changes I would like to make is to swap it for a first-person view (FPS), which I believe would tie in with VR very well. This would mean that the view is within the eyes of the character itself. As mentioned the first initial release or stage would be similar to any other games, this would mean that to play the game you would need a controller such as a keyboard and a mouse. The second stage would tie with a VR headset of choice, and instead of having the player move the mouse around to look around, the user can simply turn his or her head. The third stage would implement both hands and legs, instead of using standard controllers the user will be required to have VR gloves and one of the VR treadmills. The fourth stage of the game would require the user to buy a bodysuit to play. The final stage of the game would allow users to interact with other users in the online world, simply changing Single-player into Multi-player.
@@ -333,6 +482,7 @@ One of the main traits that is shared between both titles; Megaman and Castlevan
 For stage one the tools and skills required are both to have a good understanding of a gaming development application such as; Unity or Unreal Engine, and to both programming languages; C++ and C#. For design purposes, there are free applications such as Blender which helps with creating 3D models. And last is basic comprehension on how a game is developed, starting with modeling, creating texture maps, rigging models, animating, applying shaders, actual gameplay, then adding user interfaces and sounds.
 </p>
 
+
 <p align="justify">
 A few difficulties I believe the project would encounter is in both price and connection for the last stage of the game, converting from single-player to multi-player. Concerning price, I believe it can cause difficulties for people who are not financially independent yet, especially when the current cost of a single body-suit can range up to an average of 1500 – 2000$. The second issue that involves price would be the space required to play a game. Some VR machines can be as big as a treadmill, while others require a large open area, such as an entire room for sensors to be placed on each corner of the wall to detect movement. This might become difficult for people to dedicate an area or room for gaming alone, especially when the average age of the consumer would roughly be in the early 20’s. The last difficulty would be the speed of the internet. Multi-player games, in general, have had both good and bad reviews, especially in third world locations that have yet to developed fiber optics. This could be solved by installing servers in multiple locations to provide better connections for the users, however, that would divide the general population into groups for example; US, EU, AU, or Asian servers. While it is true that people who live in the US and are connected to US servers would have a better connection rather connecting to a server in EU, however having such division would mean that only people of the same server can play with each other.
 </p>
@@ -342,6 +492,9 @@ A few difficulties I believe the project would encounter is in both price and co
 <p>
 
 </br>
+
+<div id="reference">
+</div>
 
 <h6 align="center">References</h6>
 
@@ -357,13 +510,17 @@ A few difficulties I believe the project would encounter is in both price and co
 <li> Magic Web Solutions. (2016). The Search for a Good Java Developer Made Easy - Magic Web Solutions. [online] Available at: https://www.magicwebsolutions.co.uk/searching-for-java-developer </li>
 <li> Truity.com. (n.d.). Scientific Personality & Career Tests Online | Truity. [online] Available at: https://www.truity.com/ </li>
 <li> Whatismylearningstyle.com. (n.d.). Welcome to WhatIsMyLearningStyle.com. [online] Available at: http://www.whatismylearningstyle.com/index.html  </li>
-<li>  </li>
-<li>  </li>
-<li>  </li>
+<li> freeCodeCamp. (2018). Learn to code with free online courses, programming projects, and interview preparation for developer jobs.. [online] Available at: https://www.freecodecamp.org/ </li>
+<li> Lparchive.org. (2016). Mega Man X4. [online] Available at: https://lparchive.org/Mega-Man-X4/  </li>
+<li> W3schools.com. (2018). W3Schools Online Web Tutorials. [online] Available at: https://www.w3schools.com/  </li>
 <li>  </li>
 <li>  </li>
 <li>  </li>
 </ul>
+
+<div>
+  <a href="#home">Go Back Up</a>
+</div>
 
 </body>
 
