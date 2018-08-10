@@ -3,18 +3,6 @@
 <title> Personal Profile </title>
 <head>
 
-#maincontainer
-<style>
-
-{
-top:0px;
-padding-top:0;
-margin:auto; position:relative;
-width:950px;
-height:100%;
-}
-
-</style>
 
 <meta name="testing" content="width=device-width, initial-scale=1">
 
@@ -27,6 +15,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
+
+
+#wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+
 
 #myBtn {
   display: none;
