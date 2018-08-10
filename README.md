@@ -544,8 +544,5 @@ An example of a fan-made Megaman game. Please note this is not mine and I'm  usi
   <a href="#home">Go Back Up</a>
 </div>
 
-</body>
-
-</html>
 
 
