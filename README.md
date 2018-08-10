@@ -188,7 +188,7 @@ Ideal Job
 
 <p align="center"><b><i>
 Java Developer
-</i></b>
+</i></b></p>
 
 <p align="center"><b>
 The job advertisement itself. Include a link, and a snapshot of it (In case the link expires before the assignment deadline)
@@ -196,7 +196,7 @@ The job advertisement itself. Include a link, and a snapshot of it (In case the 
 
 <p align="center">
 <a href="https://www.seek.com.au/job/36771668?type=standard"> Java Developer - From seek.com <a>
-</p>
+
 
 <p align="center">
 
