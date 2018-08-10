@@ -8,13 +8,6 @@
 
 <style>
   
-html, body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  }
-  
 body {
 background-color: #9999ff;
 }
@@ -99,9 +92,9 @@ function topFunction() {
 
 
 
-<h1 align="center">
+<h1 align="center"><font color="black">
 About Me
-</h1>
+</font></h1>
 
 <style>
 
