@@ -16,11 +16,8 @@ body {
   font-size: 20px;
 }
 
+margin: 900px;
 
-#wrapper {
-    width: 500px;
-    margin: 0 auto;
-}
 
 
 #myBtn {
