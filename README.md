@@ -196,11 +196,9 @@ The job advertisement itself. Include a link, and a snapshot of it (In case the 
 
 <p align="center">
 <a href="https://www.seek.com.au/job/36771668?type=standard"> Java Developer - From seek.com <a>
+  </p>
 
 
-<p align="center">
-
-</p>
 
 <a href="URL"><img src="https://3fpb0v2eotb1j9fyc31axpsd-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/choosing-java-developer.jpg" style="float: left; width: 60%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
 
