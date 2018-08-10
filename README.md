@@ -92,9 +92,9 @@ function topFunction() {
 
 
 
-<h1 align="center"><font color="black">
+<h1 align="center"><font color="black"><b>
 About Me
-</font></h1>
+</font></h1></b>
 
 <style>
 
