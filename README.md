@@ -67,12 +67,12 @@ function topFunction() {
 
 <div class="topnav">
   <a class="active" href="#home"></a>
-  <a href="#aboutme">About Myself</a> <p> | </p>
-  <a href="#interestinIT">Interest In IT</a>
-  <a href="#idealjob">My Ideal Job</a>
-  <a href="#personality">Personality</a>
-  <a href="#project">Project Idea</a>
-  <a href="#reference">References</a>
+  <a href="#aboutme">[ About Myself ] </a>
+  <a href="#interestinIT">[ Interest In IT ] </a>
+  <a href="#idealjob">[ My Ideal Job ] </a>
+  <a href="#personality">[ Personality ] </a>
+  <a href="#project">[ Project Idea ] </a>
+  <a href="#reference">[ References ]</a>
 </div>
 
 <div style="position:relative;width:267px;height:25px;overflow:hidden;">
@@ -133,7 +133,6 @@ I am from Indonesia which is located just north of Australia, and I lived in Jak
 A little bit about myself, admittedly I am more of a dog person than a cat, and strangely I enjoy rainy days rather than sunny days which also ties in with my preference over cold rather than hot. I love watching movies especially comedy, some titles that I enjoy currently are; Brooklynn Nine-Nine, Community, and currently any marvel releases such as Avengers. Aside from movies I also do a bit of gaming, recent titles that I have been enjoying are; Dead by Daylight, and Starcraft 2.
 </p>
 
-</br>
 
 <div>
   <a href="#home">Go Back Up</a>
@@ -168,7 +167,6 @@ What do you expect to learn during your studies?
 Since I am somewhat new to the world of IT, entering Bachelor of Information Technology, I would expect to learn a lot. The main topics that I would expect to gain the most would be in general hardware and software development. Regarding hardware, I would expect to learn mainly towards what different pieces of equipment contribute towards; a computer, server, or in general any mechanical device. As for software, it would be how to program using various coding languages such as Java, HTML, Python, or C++. Alongside languages, I also expect to learn different types of software which would aid me in my studies and future endeavors.
 </p>
 
-</br>
 
 <div>
   <a href="#home">Go Back Up</a>
@@ -276,7 +274,6 @@ A plan describing how you will obtain the skills, qualifications, and experience
 I understand that the goal to reach the position of a Java Developer would take years to obtain, however, my plan currently is set in stages or goals. The first goal is to finish Bachelor of Information Technology to gain a better understanding of various types’ of hardware and software. Completion of Bachelor of IT would grant me roughly 3 years of experience. After which I plan to follow up into either an internship program or pursue a postgraduate degree such as Masters of Information Technology or Masters of Computer Science, both which I plan to take within RMIT as well. If I choose to take up a master’s degree, it will give me roughly 1.5 to 2 years of experience in the field. If I choose to take up an internship program, it will vary between jobs toward development in software. Taking up an internship program can add a few months towards my experience.  On a more personal goal, I plan on learning Python while studying in my Bachelor degree, and further improving my skills with HTML.
 </p>
 
-</br>
 
 <div>
   <a href="#home">Go Back Up</a>
@@ -341,7 +338,6 @@ How should you take this into account when forming a team?
 I know for a fact that I am not fond of teams that procrastinate and leave work until it is near the deadline, due to the fact that it will develop unnecessary stress and fatigue. Apart from that, I believe that I would look for similar characteristics when forming a team. The best teammate I would hope for is someone who can also handle spontaneous events easily since I personally somewhat lacking in that regard.  When forming a team I would also prefer teammates who are enthusiastic to get the job done, and that would also have a sense of equality so that the workload can be distributed fairly and equally amongst other members.
 </p>
 
-</br>
 
 <p align="center"><b><i>
 Learning Style Test
@@ -360,7 +356,6 @@ What do the results of these tests mean for you?
 </center>
 </div>
 
-</br>
 
 <p align="justify">
 Results from the learning style test classed me into two main categories and one subcategory. The two main category which I am classed under are; Auditory and Visual learner. The last class is a Tactile or a Kinesthetic learner.
@@ -394,7 +389,6 @@ How should you take this into account when forming a team?
 When forming a team, I would prefer team members who are both enthusiastic and willing to work together. However, even if I favor a quiet environment, I would favor team members that can communicate with each other effectively and without any pressure. Size also plays a significant factor as well, and I would limit the size of the team to roughly an average of 5 heads. With the personality of team members, I would prefer those who somewhat have a similar mindset as I do to avoid any different methods or work style.
 </p>
 
-</br>
 
 <p align="center"><b><i>
 Big Five Personality Test
@@ -430,7 +424,6 @@ How should you take this into account when forming a team?
 I believe that conflict is to be expected when working within a team, it all matters down towards how it is resolved. Therefore when picking out team members, or forming a team, I wouldn’t mind taking members who are the polar opposite of what I am. I believe a team who are 100% single-minded would not achieve as well as a team that could cover the other’s cons. However, after forming a team, I would prefer to have a few sessions together in order to understand each other and be generally more comfortable around one another.
 </p>
 
-</br>
 
 <style>
 * {
@@ -505,19 +498,17 @@ For stage one the tools and skills required are both to have a good understandin
 A few difficulties I believe the project would encounter is in both price and connection for the last stage of the game, converting from single-player to multi-player. Concerning price, I believe it can cause difficulties for people who are not financially independent yet, especially when the current cost of a single body-suit can range up to an average of 1500 – 2000$. The second issue that involves price would be the space required to play a game. Some VR machines can be as big as a treadmill, while others require a large open area, such as an entire room for sensors to be placed on each corner of the wall to detect movement. This might become difficult for people to dedicate an area or room for gaming alone, especially when the average age of the consumer would roughly be in the early 20’s. The last difficulty would be the speed of the internet. Multi-player games, in general, have had both good and bad reviews, especially in third world locations that have yet to developed fiber optics. This could be solved by installing servers in multiple locations to provide better connections for the users, however, that would divide the general population into groups for example; US, EU, AU, or Asian servers. While it is true that people who live in the US and are connected to US servers would have a better connection rather connecting to a server in EU, however having such division would mean that only people of the same server can play with each other.
 </p>
 
-</br>
 <div align="center">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Y0hiwopf8Ls" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <p align="center"><i>
 An example of a fan-made Megaman game. Please note this is not mine and I'm  using this fan-made video for example purposes only.
 </i></p>
-</br>
+
 <p align="center">
 (PROJECT WORK IN PROGRESS)
 <p>
 
-</br></br>
 
 <div id="reference">
 </div>
