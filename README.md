@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title> Personal Profile </title>
 <head>
@@ -66,7 +66,7 @@ function topFunction() {
 </div>
 
 <div class="topnav">
-  <a class="active" href="#home"></a>
+  <a class="active" href="#home"></a> <p> | </p>
   <a href="#aboutme">About Myself</a>
   <a href="#interestinIT">Interest In IT</a>
   <a href="#idealjob">My Ideal Job</a>
@@ -111,7 +111,6 @@ font-family:Sans-serif
 <img src="https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.0-9/1936980_153025593913_1263758_n.jpg?_nc_cat=0&oh=2eda57aca84ad584ef51282a5fba5070&oe=5C08773D" alt="Its me!" style="width:40%;">
 
 
-</br>
 
 <div id="aboutme">
 </div>
