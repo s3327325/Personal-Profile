@@ -124,7 +124,7 @@ font-family:Sans-serif
 
 <p align="center"><b><font color="black">
 Hello and welcome to my profile.
-</b></p></font>
+</font></b></p>
 
 <ul>
 <li> Name: Davin Ie </li>
