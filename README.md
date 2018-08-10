@@ -3,14 +3,16 @@
 <title> Personal Profile </title>
 <head>
 
+#maincontainer
 <style>
 
-   html, body {
-      width: 100%;
-      height: 100%;
-      margin: 0;
-      padding: 0;
-      }
+{
+top:0px;
+padding-top:0;
+margin:auto; position:relative;
+width:950px;
+height:100%;
+}
 
 </style>
 
