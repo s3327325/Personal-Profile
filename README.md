@@ -112,7 +112,7 @@ font-family:Sans-serif
 --> 
 
 
-<img src="https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.0-9/1936980_153025593913_1263758_n.jpg?_nc_cat=0&oh=2eda57aca84ad584ef51282a5fba5070&oe=5C08773D" alt="Its me!" style="width:40%;">
+<img src="https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.0-9/1936980_153025593913_1263758_n.jpg?_nc_cat=0&oh=2eda57aca84ad584ef51282a5fba5070&oe=5C08773D" alt="Its me!" style="width:60%;">
 
 
 
