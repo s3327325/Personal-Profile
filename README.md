@@ -16,8 +16,6 @@ body {
   font-size: 20px;
 }
 
-margin: 900px;
-
 
 
 #myBtn {
@@ -190,7 +188,7 @@ Ideal Job
 
 <p align="center"><b><i>
 Java Developer
-</i></b></p>
+</i></b>
 
 <p align="center"><b>
 The job advertisement itself. Include a link, and a snapshot of it (In case the link expires before the assignment deadline)
