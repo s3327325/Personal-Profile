@@ -122,9 +122,9 @@ font-family:Sans-serif
 <div id="aboutme">
 </div>
 
-<p align="center"><b>
+<p align="center"><b><font color="black">
 Hello and welcome to my profile.
-</b></p>
+</b></p></font>
 
 <ul>
 <li> Name: Davin Ie </li>
