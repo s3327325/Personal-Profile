@@ -381,14 +381,8 @@ What do the results of these tests mean for you?
 
 
 <p align="justify">
-Results from the learning style test classed me into two main categories and one subcategory. The two main category which I am classed under are; Auditory and Visual learner. The last class is a Tactile or a Kinesthetic learner.
-</p>
-
-<p align="justify">
 A visual learner strives on watching and observing. On average, 70-80% of the information which is conveyed through speaking or demonstration would be understood and remembered by individuals of this class. As someone who is learning, a student, there are various methods to study for the best results such as; repetition, highlighting important points, taking or rewriting notes, the use of flash cards, or other forms of media such as videos, posters, and presentations. The environment also plays a role, primarily noise. Visual learners do not work well in a crowded environment, and loud noises such as the bustling city life would interfere significantly. A more preferred environment would be a quiet space, one that also does not involve many people. Light music can also be played in the background to aid in studying.
-</p>
 
-<p align="justify">
 An auditory learner must-hear information for it to be understood. On average roughly 70% of what is heard would be easily remembered for someone of this class. There are a few methods for studying which would show the best results such as; the use of flashcards, reading information out loud, transforming lecture notes into tapes which can be used to listen on repeat, and small discussion groups on average roughly 2-4 people. On a negative note auditory learners are easily distracted by noises, and are unable to work in complete silence for an extended period of time.
 </p>
 
@@ -420,6 +414,7 @@ Big Five Personality Test
 <p align="center"><b>
 What do the results of these tests mean for you?
 </b></p>
+
 
 <a href="URL"><img src="https://www.truity.com/sites/default/files/styles/width_560/public/test_images/truity_facets_banner_updated_squared.png?itok=5be4s5Xy" style="float: right; width: 35%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
 
