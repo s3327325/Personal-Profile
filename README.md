@@ -452,8 +452,8 @@ I believe that conflict is to be expected when working within a team, it all mat
 
 .column {
     float: left;
-    width: 44.44%;
-    padding: 2px;
+    width: 40%;
+    padding: 3px;
 }
 
 .row::after {
@@ -472,14 +472,14 @@ I believe that conflict is to be expected when working within a team, it all mat
 <div class="row">
 
   <div class="column">
-    <img src="https://cdn.shopify.com/s/files/1/0104/2612/products/MegamanUltra-1_grande.jpg?v=1446695772" alt="megaman" style="width:100%">
+    <img src="https://cdn.shopify.com/s/files/1/0104/2612/products/MegamanUltra-1_grande.jpg?v=1446695772" alt="megaman" style="width:800%">
   </div>
   <div class="column">
-    <img src="https://nerdist.com/wp-content/uploads/2016/12/Castlevania-Featured-12302016.jpg" alt="castlevania" style="width:100%">
+    <img src="https://nerdist.com/wp-content/uploads/2016/12/Castlevania-Featured-12302016.jpg" alt="castlevania" style="width:800%">
   </div>
 
   <div class="column">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4W8PekOMe_vqvDeera-jQ58hccmJWEJyp-oEQFV4YdqnO5__k9Q" alt="castlevania" style="width:100%">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4W8PekOMe_vqvDeera-jQ58hccmJWEJyp-oEQFV4YdqnO5__k9Q" alt="castlevania" style="width:800%">
   </div>
   
 
