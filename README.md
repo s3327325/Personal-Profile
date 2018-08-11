@@ -44,7 +44,7 @@ body {
 
 .center {
     text-align: center;
-    border: 3px solid green;
+    
 }
 
 
