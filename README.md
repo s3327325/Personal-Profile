@@ -69,11 +69,11 @@ function topFunction() {
 <div id="home">
 </div>
 
-<div class="topnav"; style="padding:50x;">
+<div class="topnav">
   <a class="active" href="#home"></a>
   <a href="#aboutme">[ About Myself ] </a>
   <a href="#interestinIT">[ Interest In IT ] </a>
-  <a href="#idealjob">[ My Ideal Job ] </a>
+  <a href="#idealjob">[ My Ideal Job ] </a> <br/>
   <a href="#personality">[ Personality ] </a>
   <a href="#project">[ Project Idea ] </a>
   <a href="#reference">[ References ]</a>
