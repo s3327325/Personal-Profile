@@ -208,6 +208,10 @@ Java Developer
 The job advertisement itself. Include a link, and a snapshot of it (In case the link expires before the assignment deadline)
 </b></p>
 
+
+<img src="https://imgur.com/a/EvXntuM" alt="Java Developer Advertisement">
+
+
 <p align="center">
 <a href="https://www.seek.com.au/job/36771668?type=standard"> Java Developer - From seek.com <a>
 
