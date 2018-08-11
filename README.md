@@ -522,11 +522,6 @@ A few difficulties I believe the project would encounter is in both price and co
 An example of a fan-made Megaman game. Please note this is not mine and I'm  using this fan-made video for example purposes only.
 </i></p>
 
-<p align="center">
-(PROJECT WORK IN PROGRESS)
-<p>
-
-
 <div id="reference">
 </div>
 
@@ -550,7 +545,9 @@ An example of a fan-made Megaman game. Please note this is not mine and I'm  usi
 <li> 5?, H. (2016). How to play only the audio of a Youtube video using HTML 5?. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/8690255/how-to-play-only-the-audio-of-a-youtube-video-using-html-5 </li>
 <li> YouTube. (2016). His Theme (Orchestral arr.) - Undertale OST. [online] Available at: https://www.youtube.com/watch?v=iE1mXi6qQLs </li>
 <li> YouTube. (2017). Megaman X: Corrupted - Trailer 2018. [online] Available at: https://www.youtube.com/watch?v=Y0hiwopf8Ls </li>
-</i> </ul>
+</i> 
+<li> Imgur. (2018). Imgur. [online] Available at: https://imgur.com/</i>
+</ul>
 
 <div>
   <a href="#home">Go Back Up</a>
