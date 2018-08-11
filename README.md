@@ -71,8 +71,8 @@ function topFunction() {
 
 
 
-<div class="topnav">
-  <a align="center" class="active" href="#home"></a>
+<div align="center"; class="topnav">
+  <a class="active" href="#home"></a>
   <a href="#aboutme">[ About Myself ] </a>
   <a href="#interestinIT">[ Interest In IT ] </a>
   <a href="#idealjob">[ My Ideal Job ] </a> <br/>
