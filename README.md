@@ -39,6 +39,17 @@ body {
   background-color: #555;
 }
 
+
+
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+}
+
+
+
+
 </style>
 
 <title>Assignment 1 - Personal Profile (Intro To IT)</title>
@@ -70,7 +81,7 @@ function topFunction() {
 </div>
 
 
-<div class="topnav">
+<div class="topnav, center">
   <a class="active" href="#home"></a>
   <a href="#aboutme">[ About Myself ] </a>
   <a href="#interestinIT">[ Interest In IT ] </a>
