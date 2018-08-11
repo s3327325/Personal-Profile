@@ -70,7 +70,7 @@ function topFunction() {
 </div>
 
 
-<div class="topnav, center">
+<div class="topnav">
   <a class="active" href="#home"></a>
   <a href="#aboutme">[ About Myself ] </a>
   <a href="#interestinIT">[ Interest In IT ] </a>
