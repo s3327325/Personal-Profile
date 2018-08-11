@@ -69,6 +69,8 @@ function topFunction() {
 <div id="home">
 </div>
 
+<style align="center">
+
 <div class="topnav">
   <a class="active" href="#home"></a>
   <a href="#aboutme">[ About Myself ] </a>
@@ -79,6 +81,7 @@ function topFunction() {
   <a href="#reference">[ References ]</a>
 </div>
 
+</style>
 
 <br/>
 
