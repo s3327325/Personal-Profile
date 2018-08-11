@@ -441,6 +441,9 @@ How should you take this into account when forming a team?
 I believe that conflict is to be expected when working within a team, it all matters down towards how it is resolved. Therefore when picking out team members, or forming a team, I wouldn’t mind taking members who are the polar opposite of what I am. I believe a team who are 100% single-minded would not achieve as well as a team that could cover the other’s cons. However, after forming a team, I would prefer to have a few sessions together in order to understand each other and be generally more comfortable around one another.
 </p>
 
+<div>
+  <a href="#home">Go Back Up</a>
+</div>
 
 <style>
 * {
@@ -449,8 +452,8 @@ I believe that conflict is to be expected when working within a team, it all mat
 
 .column {
     float: left;
-    width: 33.33%;
-    padding: 5px;
+    width: 44.44%;
+    padding: 2px;
 }
 
 .row::after {
@@ -460,9 +463,6 @@ I believe that conflict is to be expected when working within a team, it all mat
 }
 </style>
 
-<div>
-  <a href="#home">Go Back Up</a>
-</div>
 
 <div id="project">
 </div>
@@ -472,14 +472,14 @@ I believe that conflict is to be expected when working within a team, it all mat
 <div class="row">
 
   <div class="column">
-    <img src="https://cdn.shopify.com/s/files/1/0104/2612/products/MegamanUltra-1_grande.jpg?v=1446695772" alt="megaman" style="width:80%">
+    <img src="https://cdn.shopify.com/s/files/1/0104/2612/products/MegamanUltra-1_grande.jpg?v=1446695772" alt="megaman" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://nerdist.com/wp-content/uploads/2016/12/Castlevania-Featured-12302016.jpg" alt="castlevania" style="width:80%">
+    <img src="https://nerdist.com/wp-content/uploads/2016/12/Castlevania-Featured-12302016.jpg" alt="castlevania" style="width:100%">
   </div>
 
   <div class="column">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4W8PekOMe_vqvDeera-jQ58hccmJWEJyp-oEQFV4YdqnO5__k9Q" alt="castlevania" style="width:80%">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4W8PekOMe_vqvDeera-jQ58hccmJWEJyp-oEQFV4YdqnO5__k9Q" alt="castlevania" style="width:100%">
   </div>
   
 
