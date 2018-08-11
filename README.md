@@ -151,7 +151,7 @@ I am from Indonesia which is located just north of Australia, and I lived in Jak
 </p>
 
 <p align="justify">
-A little bit about myself, admittedly I am more of a dog person than a cat, and strangely I enjoy rainy days rather than sunny days which also ties in with my preference over cold rather than hot. I love watching movies especially comedy, some titles that I enjoy currently are; Brooklynn Nine-Nine, Community, and currently any marvel releases such as Avengers. Aside from movies I also do a bit of gaming, recent titles that I have been enjoying are; Dead by Daylight, and Starcraft 2.
+A little bit about myself, admittedly I am more of a dog person than a cat, and strangely I enjoy rainy days rather than sunny days which also ties in with my preference over cold rather than hot. I love watching movies especially comedy, some titles that I enjoy currently are; Brooklynn Nine-Nine, Community, and currently any marvel releases such as Avengers. Aside from movies I also do a bit of gaming, recent titles that I have been enjoying are; Undertale, Dead by Daylight, and Starcraft 2.
 </p>
 
 
