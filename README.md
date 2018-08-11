@@ -208,7 +208,7 @@ Java Developer
 The job advertisement itself. Include a link, and a snapshot of it (In case the link expires before the assignment deadline)
 </b></p>
 
-<a href="URL"><img src="https://imgur.com/a/EvXntuM" style="float: none; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
+<a href="URL"><img src="https://i.imgur.com/J4zooE8.jpg" style="float: none; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
 
 
 
