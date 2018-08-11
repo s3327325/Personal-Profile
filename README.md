@@ -4,7 +4,7 @@
 <head>
 
 
-<!-- <meta name="testing" content="width=device-width, initial-scale=1"> -->
+<meta name="testing" content="width=device-width, initial-scale=1">
 
 <style>
   
@@ -69,7 +69,7 @@ function topFunction() {
 <div id="home">
 </div>
 
-<div class="topnav">
+<div class="topnav"; style="padding:50x;">
   <a class="active" href="#home"></a>
   <a href="#aboutme">[ About Myself ] </a>
   <a href="#interestinIT">[ Interest In IT ] </a>
