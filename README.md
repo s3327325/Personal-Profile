@@ -69,9 +69,15 @@ function topFunction() {
 <div id="home">
 </div>
 
+<style>
+  class {
+  display: block;
+  margin-left auto;
+  margin-right-auto;
+  }
+  </style>
 
-
-<div class="center"; class="topnav">
+<div class="topnav">
   <a class="active" href="#home"></a>
   <a href="#aboutme">[ About Myself ] </a>
   <a href="#interestinIT">[ Interest In IT ] </a>
