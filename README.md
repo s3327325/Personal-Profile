@@ -357,12 +357,6 @@ I know for a fact that I am not fond of teams that procrastinate and leave work 
 Learning Style Test
 </i></b></p>
 
-<p align="center"><b>
-What do the results of these tests mean for you?
-</b></p>
-
-
-
 <div align="center">
 
 <center>
@@ -370,12 +364,23 @@ What do the results of these tests mean for you?
 </center>
 </div>
 
+<p align="center"><b>
+What do the results of these tests mean for you?
+</b></p>
+
+
+<div align="center">
+
+<a href="URL"><img src="https://i.imgur.com/zRxSxzb.jpg" style="float: none; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
+<a href="URL"><img src="https://i.imgur.com/P8fgIMq.jpg" style="float: none; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
 
 <p align="justify">
 A visual learner strives on watching and observing. On average, 70-80% of the information which is conveyed through speaking or demonstration would be understood and remembered by individuals of this class. As someone who is learning, a student, there are various methods to study for the best results such as; repetition, highlighting important points, taking or rewriting notes, the use of flash cards, or other forms of media such as videos, posters, and presentations. The environment also plays a role, primarily noise. Visual learners do not work well in a crowded environment, and loud noises such as the bustling city life would interfere significantly. A more preferred environment would be a quiet space, one that also does not involve many people. Light music can also be played in the background to aid in studying.
 
 An auditory learner must-hear information for it to be understood. On average roughly 70% of what is heard would be easily remembered for someone of this class. There are a few methods for studying which would show the best results such as; the use of flashcards, reading information out loud, transforming lecture notes into tapes which can be used to listen on repeat, and small discussion groups on average roughly 2-4 people. On a negative note auditory learners are easily distracted by noises, and are unable to work in complete silence for an extended period of time.
 </p>
+
+<a href="URL"><img src="https://imgur.com/a/V2YWZzf" style="float: none; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
 
 <p align="justify">
 Tactile or Kinesthetic learners have excellent motor skills and require hands-on experience to learn or understand something quickly. Members of this class strive in practical or tutorial classes and take a liking towards making or creating new projects. There are a few ways to aid in future studies such as walking around while reading or talking about the topic will help memorize information easier. Other methods involve comfort and time, a tactile or kinesthetic learner often fidgets while they study which can be a little distracting if not appropriately controlled. Suggestions for fidgeting vary from bringing a simple ball or doing some hand exercises. Aside from fidgeting they are also known to snack while they study. Regarding comfort, music might show significant results, and position is key, the individual must be comfortable while they study which vary from person to person; some prefer lying down on their back or stomach, or simply to sit on a very comfy bean bag. Another method involves the environment, time and technique. Environment wise color plays a role, the more colors that are present in which you favor, the better you can focus on your task at hand. In terms of time, on average studying and taking breaks are to be divided on a 4-1 or 5-1 ratio, for example, 20-25 minutes of studying, 5 minutes break. A simple technique to help with memorization is to close your eyes and picture the information in your head while writing it in the air, as you write the information try to recite it.
