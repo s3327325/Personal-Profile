@@ -209,7 +209,7 @@ The job advertisement itself. Include a link, and a snapshot of it (In case the 
 </b></p>
 
 
-<img src="https://imgur.com/a/EvXntuM" alt="Java Developer Advertisement">
+<img src="https://imgur.com/a/EvXntuM" alt="Java Developer Advertisement" width="400" height="1000>
 
 
 <p align="center">
