@@ -452,7 +452,7 @@ I believe that conflict is to be expected when working within a team, it all mat
 
 .column {
     float: left;
-    width: 40%;
+    width: 33.33%;
     padding: 5px;
 }
 
