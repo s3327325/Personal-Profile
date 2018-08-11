@@ -311,7 +311,7 @@ I understand that the goal to reach the position of a Java Developer would take 
 Myers briggs test
 </i></b></p>
 
-<a href="URL"><img src="https://i.imgur.com/MzLrHxk.jpg" style="float: none; width: 35%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
+<a href="URL"><img src="https://i.imgur.com/MzLrHxk.jpg" style="float: none; width: 100%; margin-right: 1%; margin-bottom: 0.5em;" ></a>
 
 <p align="center"><b>
 What do the results of these tests mean for you?
