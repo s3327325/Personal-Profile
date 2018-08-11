@@ -210,7 +210,7 @@ The job advertisement itself. Include a link, and a snapshot of it (In case the 
 
 <p align="center">
 <a href="https://www.seek.com.au/job/36771668?type=standard"> Java Developer - From seek.com <a>
-  </p>
+
 
 
 
